@@ -1,6 +1,6 @@
 %{
 /*
-* Word recognizer with a symbol table.
+* Word recognizer with a symbol table. //
 */
 
 #include<stdio.h>
